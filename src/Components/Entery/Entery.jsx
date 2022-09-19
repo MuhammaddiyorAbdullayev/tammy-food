@@ -3,6 +3,7 @@ import { Background, BtnDiv, Container, Info, MiniTitle, Paragraph, Title } from
 import Play from '../../Assets/Play.svg'
 
 const Entery = () => {
+  
   return (
     <Container>
       <Info>
