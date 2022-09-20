@@ -8,7 +8,6 @@ export const Wrapper = styled.div`
     justify-content: center;
     position: fixed;
     background-color: #fff;
-    border: 1px solid red;
 `
 
 export const Container = styled.div`
