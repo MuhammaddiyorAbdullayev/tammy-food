@@ -2,6 +2,14 @@ import styled from 'styled-components'
 
 import Image from '../../Assets/Background.png'
 
+export const Wrapper = styled.div`
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBF3;
+`
+
 export const Container = styled.div`
     width: 100%;
     max-width: 1440px;

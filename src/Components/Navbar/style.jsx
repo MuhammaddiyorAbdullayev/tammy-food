@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
     display: flex;
     justify-content: center;
     position: fixed;
-    background-color: #fff;
+    background-color: #FFFBF3;
 `
 
 export const Container = styled.div`
@@ -26,6 +26,11 @@ export const Brand = styled.img`
     object-fit: contain;
     margin-left: 30px;
     cursor: pointer;
+
+    @media (max-width:425px){
+        width: 160px;
+        height: 30px;
+    }
 `
 
 export const LinkDiv = styled.div`
