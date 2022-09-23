@@ -9,7 +9,7 @@ const Entery = () => {
       <Container>
         <Info>
           <MiniTitle>Fast Delivery</MiniTitle>
-          <Title>Discoverg Your Favourite Food and </Title>
+          <Title>Discover Your Favourite Food and </Title>
           <Paragraph>
           Lorem Ipsum is simply dummy text of the printing 
           and typesetting industry. Lorem Ipsum has been the 

@@ -59,6 +59,7 @@ export const Infos = styled.div`
     @media (max-width:760px) {
         flex-wrap: wrap;
         margin-bottom: 100px;
+        height: 800px;
     }
 `
 
