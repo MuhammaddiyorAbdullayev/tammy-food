@@ -15,9 +15,6 @@ const Main = () => {
   useEffect(() => {
     setPosts(DishData);
   }, [])
-  
-
-  console.log(posts)
 
   // get current posts
 
