@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Entery from './Components/Entery/Entery'
 import About from './Components/About/About'
 import Pagination from './Components/Pagination/Main'
+import Footer from './Components/Footer/Footer'
 
 const App = () => {
   return (
@@ -14,7 +15,8 @@ const App = () => {
       <Entery/>
       <About/>
       <Pagination/>
-    </>
+      <Footer/>
+      </>
   )
 }
 
